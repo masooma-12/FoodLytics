@@ -1,0 +1,8 @@
+{
+  "name": "FoodLytics",
+  "description": "Smart food health analyzer and virtual dietician that uses AI to scan food, provide health ratings, and offer personalized diet guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
